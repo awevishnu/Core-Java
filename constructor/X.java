@@ -18,7 +18,7 @@ class X
 	}
 	
 }
-//compilation is successfull , RE
+//compilation is successfull , RE due to recursion
 /*
 done
 Exception in thread "main" java.lang.StackOverflowError
